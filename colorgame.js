@@ -1,7 +1,7 @@
 //variables
 var numSquares = 6;
 var squares = document.querySelectorAll('.square');
-var colorDi splay = document.getElementById("colorDisplay");
+var colorDisplay = document.getElementById("colorDisplay");
 var messageDisplay = document.querySelector('#message');
 var h1 = document.querySelector('h1');
 var resetButton = document.querySelector("#reset");
